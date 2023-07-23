@@ -1,0 +1,9 @@
+lightgbm==4.0.0
+matplotlib==3.7.2
+nodevectors==0.1.23
+notebook==6.5.4
+pandas==2.0.3
+scikit-learn==1.3.0
+scipy==1.11.1
+seaborn==0.12.2
+xgboost==1.7.6
